@@ -30,4 +30,3 @@ stages:
         PathtoPublish: 'artifact1/target'
         ArtifactName: 'drop'
         publishLocation: 'Container'
-
